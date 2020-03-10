@@ -9,7 +9,7 @@ Realizamos un experimento usando los siguiente materiales
 - Madera
 - Cartulina negra
 - Pegante
-
+:+!:
 
 ## Como instalar
 Para el funcionamiento debe descargar el archivo cnyt y simulacion, se deben poner ambos archivos en la misma carpeta y para verificar la simulacion se deben correr este archivo.
